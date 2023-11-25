@@ -1,0 +1,9 @@
+# This the configuration for PC5
+#
+# Uncomment the following line to enable DHCP
+# dhcp
+# or the line below to manually setup an IP address and subnet mask
+#
+
+set pcname PC5
+ip 123.123.1.1/24 123.123.1.2
